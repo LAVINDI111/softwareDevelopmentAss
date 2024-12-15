@@ -1,0 +1,2 @@
+INSERT INTO Course (courseName, credits, facultyId, departmentId)
+VALUES ('Networking Fundamentals', 4, 2, 2),('Software Engineering Practices', 3, 3, 3), ('Artificial Intelligence Basics', 3, 4, 4), ('Cloud Computing Foundations', 4, 5, 5), ('Advanced Database Systems', 3, 1, 1);  

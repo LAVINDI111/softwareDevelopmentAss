@@ -1,0 +1,2 @@
+INSERT INTO Faculty_Member (firstNameOfLec, lastNameOfLec, emailOfLec, hireDate, departmentId)
+VALUES ('Kavi', 'Rathnayake', 'Kavi.rath11@gmail.com', '2020-01-15', 1),('Nipuna', 'Bernad', 'nipuna.ber22@gmail.com', '2022-05-1', 2),('Sandun', 'Kanchana', 'Kanchana333sandun@gmail.com', '2024-10-5', 3),('pawani', 'ekanayake', 'ekanayake#pp44@gmail.com', '2018-04-25', 4),('Mahii', 'Jayawira', 'MP555.jaye@gmail.com', '2017-07-14', 5);
