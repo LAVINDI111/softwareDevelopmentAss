@@ -1,0 +1,2 @@
+INSERT INTO Department (departmentName, location)
+VALUES ('Computer Science', 'Building A'), ('IT', 'Building B'), ('Software Engineering','Building C'),('AI and ML','Building D'),('Cloud Nedepartmentdepartmenttworking','Building E');
